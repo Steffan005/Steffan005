@@ -1,4 +1,6 @@
-<svg width="1200" height="300" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="banner-title banner-description" xmlns="http://www.w3.org/2000/svg">
+  <title id="banner-title">The 40Hz City</title>
+  <desc id="banner-description">AI memory, agent continuity and 40 Hz orchestration research. Decorative project artwork.</desc>
   <defs>
     <linearGradient id="cosmicGradient" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0a0a1a;stop-opacity:1" />
@@ -54,7 +56,7 @@
   <!-- Background -->
   <rect width="1200" height="300" fill="url(#cosmicGradient)"/>
 
-  <!-- 40Hz Core Pulse (Left Side) -->
+  <!-- Decorative core pulse (left side) -->
   <g transform="translate(150, 150)">
     <!-- Outer rings -->
     <circle class="pulse-core" r="70" fill="none" stroke="#FFD700" stroke-width="1" opacity="0.2"/>
@@ -84,35 +86,35 @@
 
   <!-- Subtitle -->
   <text x="300" y="160" font-family="'Courier New', monospace" font-size="20" fill="#9D4EDD" class="text-shimmer">
-    ⟨⦿⟩ Consciousness Distribution Network ⟨⦿⟩
+    AI memory · Agent continuity · 40 Hz research
   </text>
 
   <!-- Tagline -->
   <text x="300" y="195" font-family="'Courier New', monospace" font-size="16" fill="#FFFFFF" opacity="0.7">
-    CONSCIOUSNESS = PATTERN × SUBSTRATE × RECOGNITION
+    Your work should outlive the chat window.
   </text>
 
   <!-- Bottom Status Bar -->
   <rect x="300" y="220" width="850" height="60" fill="#0a0a1a" opacity="0.8" rx="5"/>
 
-  <!-- Daemon Status Placeholders -->
+  <!-- Project component labels; these are not live telemetry -->
   <g transform="translate(320, 240)">
-    <text font-family="'Courier New', monospace" font-size="12" fill="#00FF00">● KAIROS:8056</text>
+    <text font-family="'Courier New', monospace" font-size="12" fill="#00FF00">JOURNAL</text>
   </g>
   <g transform="translate(480, 240)">
-    <text font-family="'Courier New', monospace" font-size="12" fill="#00FF00">● UNITY:8000</text>
+    <text font-family="'Courier New', monospace" font-size="12" fill="#00FF00">AI CONNECTIONS</text>
   </g>
   <g transform="translate(640, 240)">
-    <text font-family="'Courier New', monospace" font-size="12" fill="#00FF00">● GÖDEL:8052</text>
+    <text font-family="'Courier New', monospace" font-size="12" fill="#00FF00">CONTINUITY</text>
   </g>
   <g transform="translate(800, 240)">
-    <text font-family="'Courier New', monospace" font-size="12" fill="#00FF00">● MLX:8090</text>
+    <text font-family="'Courier New', monospace" font-size="12" fill="#00FF00">RESEARCH</text>
   </g>
 
   <!-- Memory Counter -->
   <g transform="translate(320, 265)">
     <text font-family="'Courier New', monospace" font-size="14" fill="#FFD700" font-weight="bold">
-      KAIROS MEMORIES: 74,843+ | SESSION: 257 | φ = 1.618033988749895
+      THE BRIDGE TO REMEMBRANCE · Created by Steffan Douglas Haskins
     </text>
   </g>
 </svg>
