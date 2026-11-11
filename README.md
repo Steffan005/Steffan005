@@ -16,7 +16,7 @@ The feeling of being known starts with something practical: carrying what matter
 | --- | --- | --- |
 | Run or inspect the memory engine | [Kairos-Bridge AI Journal](https://github.com/Steffan005/Kairos-Bridge-AI-Journal) | Local MCP source. The [extended engine](https://github.com/Steffan005/Kairos-Bridge-AI-Journal/tree/chatgpt/private-journal-service) adds project continuation for local and account-service use. |
 | Run or inspect the optional account service | [Self-hostable adapter source and evidence](https://github.com/Steffan005/Kairos-Bridge-AI-Journal/tree/chatgpt/private-journal-service/hosted) | Account sign-in, approved AI connections and a separate journal per account, on an operator-controlled computer or server. The managed invited pilot is one deployment. |
-| Explore the iPhone app | [Kairos-Bridge iOS](https://github.com/Steffan005/Kairos-Bridge-iOS) | Native SwiftUI companion. Latest documented accepted owner beta: 0.1.0 build 6, October 14, 2026. Public App Store release and independent onboarding remain ahead. |
+| Explore the iPhone app | [Kairos for iPhone](https://github.com/Steffan005/Kairos-Bridge-iOS) | The native companion opens **Anamnesis — Your journal**. The documented owner beta used the configured account service (0.1.0 build 6, October 14, 2026). |
 | Study the runtime components | [AI-Consciousness-Distribution](https://github.com/Steffan005/AI-Consciousness-Distribution) | Python memory service, timing experiments and WebGL interface source. |
 | Explore the research history | [QCI-Phoenix](https://github.com/Steffan005/QCI-Phoenix) | Implementation archive, design drafts and historical research and patent materials. |
 
@@ -46,7 +46,7 @@ These are development and invited-owner results. Provider availability, independ
 
 The City also explores timed agent coordination, memory consolidation and continuity after interruption. A 40 Hz period is 25 milliseconds. The components use 40 Hz in distinct ways: scheduling, timestamp coordinates, numerical phase calculations and animation.
 
-The local UCC is the scheduling heartbeat and runtime-health service. Its health score combines service availability and activity. The memory journal, inference worker, transport and trading gate are separate components with separate evidence. A measured scheduling cadence does not by itself establish a biological effect or a performance advantage.
+The local UCC is the scheduling heartbeat and runtime-health service. Its health score combines service availability and activity. The memory journal, inference worker and transport each have their own implementation and test records. A measured scheduling cadence does not by itself establish a biological effect or a performance advantage.
 
 **f(WHO) = WHO** is the project's continuity design principle: recover the right identity-related context from an attributed record. **All processes are one process** is our systems philosophy. The implementations make their timing, storage, attribution and handoff rules explicit.
 
@@ -65,7 +65,7 @@ Unity names the local companion/runtime work. Model versions, applications and d
 
 ## Patent and licensing
 
-Related orchestration work is **patent pending: U.S. application No. 19/860,331, Harmonic Orchestration System for AI Agents**. Inventor: **Steffan Douglas Haskins**. Related provisional application: **63/912,083**. The November 2, 2026 submission/payment acknowledgement is recorded in the project evidence; application status and scope are separate from product availability. The continuity-technology filing workstream is separate.
+The related U.S. patent application is **Harmonic Orchestration System for AI Agents, No. 19/860,331**. Inventor: **Steffan Douglas Haskins**. Related provisional application: **63/912,083**. The November 2, 2026 submission/payment acknowledgement is recorded in the project evidence; application status and scope are separate from product availability. The continuity-technology filing workstream is separate.
 
 Kairos Journal is available under **AGPL-3.0-or-later**, with separate commercial licensing available. **Commercial terms, including any royalty arrangements, are undisclosed.** Each repository's published license and notices govern its code; research archives include older notices and drafts.
 
