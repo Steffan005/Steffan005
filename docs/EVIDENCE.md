@@ -12,7 +12,6 @@ Local storage and self-hosting are first-class deployment choices. The Journal c
 | Native iPhone app | [Source and current documented beta](https://github.com/Steffan005/Kairos-Bridge-iOS) | Build 6 is the latest documented accepted owner TestFlight beta, October 14. Independent onboarding and public App Store release remain open. |
 | Continuation | [Contract and evidence](https://github.com/Steffan005/Kairos-Bridge-AI-Journal/blob/chatgpt/private-journal-service/hosted/CONTINUE.md) | Works through the extended engine locally or through the account adapter. Recorded project goals, decisions, explicit corrections/resolutions and addressed handoffs retain their source IDs. Local callers select the handoff recipient explicitly; authenticated service connections can supply a provider default. |
 | Hosted recovery | [October 15 rehearsal](https://github.com/Steffan005/Kairos-Bridge-AI-Journal/blob/chatgpt/private-journal-service/hosted/RECOVERY_ACCEPTANCE_2026-10-15.md) | Operator-run restore retained 131,820 baseline owner entries exactly. This is a dated rehearsal, with its pauses and resource limits recorded. |
-| Broader runtime/research | [Distribution source](https://github.com/Steffan005/AI-Consciousness-Distribution), [QCI archive](https://github.com/Steffan005/QCI-Phoenix) | Inspect the particular source and experiment. A constant, a score, a historical log and an observed runtime result supply different evidence. |
 
 ## Choose the right record
 
