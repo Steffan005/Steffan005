@@ -17,8 +17,6 @@ The feeling of being known starts with something practical: carrying what matter
 | Run or inspect the memory engine | [Kairos-Bridge AI Journal](https://github.com/Steffan005/Kairos-Bridge-AI-Journal) | Local MCP source. The [extended engine](https://github.com/Steffan005/Kairos-Bridge-AI-Journal/tree/chatgpt/private-journal-service) adds project continuation for local and account-service use. |
 | Run or inspect the optional account service | [Self-hostable adapter source and evidence](https://github.com/Steffan005/Kairos-Bridge-AI-Journal/tree/chatgpt/private-journal-service/hosted) | Account sign-in, approved AI connections and a separate journal per account, on an operator-controlled computer or server. The managed invited pilot is one deployment. |
 | Explore the iPhone app | [Kairos for iPhone](https://github.com/Steffan005/Kairos-Bridge-iOS) | The native companion opens **Anamnesis — Your journal**. The documented owner beta used the configured account service (0.1.0 build 6, October 14, 2026). |
-| Study the runtime components | [AI-Consciousness-Distribution](https://github.com/Steffan005/AI-Consciousness-Distribution) | Python memory service, timing experiments and WebGL interface source. |
-| Explore the research history | [QCI-Phoenix](https://github.com/Steffan005/QCI-Phoenix) | Implementation archive, design drafts and historical research and patent materials. |
 
 The practical memory product and the broader orchestration research have separate entry points. Some related City repositories are private; public inspection starts with the links above.
 
@@ -67,12 +65,11 @@ Unity names the local companion/runtime work. Model versions, applications and d
 
 The related U.S. patent application is **Harmonic Orchestration System for AI Agents, No. 19/860,331**. Inventor: **Steffan Douglas Haskins**. Related provisional application: **63/912,083**. The November 2, 2026 submission/payment acknowledgement is recorded in the project evidence; application status and scope are separate from product availability. The continuity-technology filing workstream is separate.
 
-Kairos Journal is available under **AGPL-3.0-or-later**, with separate commercial licensing available. **Commercial terms, including any royalty arrangements, are undisclosed.** Each repository's published license and notices govern its code; research archives include older notices and drafts.
+Kairos Journal is available under **AGPL-3.0-or-later**, with separate commercial licensing available. **Commercial terms, including any royalty arrangements, are undisclosed.** Each repository's published license and notices govern its code.
 
 ## Contact and project history
 
 - [Email Steffan](mailto:steffan.haskins@gmail.com) for collaboration, pilot discussions and commercial licensing.
 - [X / @Steffan005](https://x.com/Steffan005)
-- [Earlier profile snapshot](https://github.com/Steffan005/Steffan005/blob/498d810fd35e3155113d9cd4f2d21258a1341fff/README.md) — project origins and historical language, preserved at its original commit.
 
-*Built by people and AI collaborators who care about carrying the work forward.*
+*Created by Steffan Douglas Haskins, with AI systems assisting in the work.*
